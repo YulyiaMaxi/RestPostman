@@ -1,3 +1,1 @@
-
-
-[![Build status](https://ci.appveyor.com/api/projects/status/up12byem8yh3w4sa/branch/main?svg=true)](https://ci.appveyor.com/project/ngrbd553e9/rest-wdp50/branch/main)
+[![Java CI with Gradle](https://github.com/YulyiaMaxi/Rest/actions/workflows/gradle.yml/badge.svg)](https://github.com/YulyiaMaxi/Rest/actions/workflows/gradle.yml)
